@@ -8,7 +8,7 @@
 </div>
 
 - 👨‍💻 Atualmente trabalho com Back-End
-- 👨‍🎓 Faço Bacharelado em Ciências da Computação
+- 👨‍🎓 Bacharelado em Ciências da Computação (1/8)
 - 👨‍💻 Técnico em Informática (2/3)
 
 
