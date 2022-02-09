@@ -1,11 +1,13 @@
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Hi%2C+I+am+Gabriel+and+I+am+Developer)](https://git.io/typing-svg)
 
 
-<div align="center">
-  <a href="https://github.com/Waichiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Waichiro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+<div align="center">  
+  <a href="https://github.com/Waichiro">  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waichiro&layout=compact&langs_count=7&theme=dark"/>
 </div>
+  
+ <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waichiro&theme=highcontrast)](https://git.io/streak-stats) -->
+  
 
 - 👨‍💻 Atualmente trabalho com Back-End
 - 👨‍🎓 Bacharelado em Ciências da Computação (1/8)
@@ -23,7 +25,7 @@
  
 <div> 
   
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waichiro&theme=highcontrast)](https://git.io/streak-stats)
+  
  
   <a href="https://www.instagram.com/gabriel.santos.jpg/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gabrielsantos98898@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
