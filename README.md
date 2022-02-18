@@ -9,13 +9,13 @@
  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waichiro&theme=highcontrast)](https://git.io/streak-stats) -->
   
 
-- 👨‍💻 Atualmente trabalho com Back-End
+- 👨‍💻 Atualmente trabalho com Back-End e Front-End
 - 👨‍🎓 Bacharelado em Ciências da Computação (2/8)
 - 👨‍💻 Técnico em Informática (2/3)
 
 
 
-### 🔭 I’m currently working with
+### 🔭 Trabalhando atualmente com:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
