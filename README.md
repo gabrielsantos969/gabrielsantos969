@@ -11,7 +11,7 @@
 
 - 👨‍💻 Atualmente trabalho com Back-End e Front-End
 - 👨‍🎓 Bacharelado em Ciências da Computação (2/8)
-- 👨‍💻 Técnico em Informática (2/3)
+
 
 
 
