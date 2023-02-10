@@ -2,8 +2,8 @@
 
 
 <div align="center">  
-  <a href="https://github.com/Waichiro">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Waichiro&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/gabrielsantos969">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos969&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Waichiro&theme=highcontrast)](https://git.io/streak-stats) -->
