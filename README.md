@@ -10,7 +10,7 @@
   
 
 - 👨‍💻 Atualmente trabalho com Back-End e Front-End
-- 👨‍🎓 Bacharelado em Ciências da Computação (5/8)
+- 👨‍🎓 Bacharelado em Ciências da Computação (6/8)
 
 
 
