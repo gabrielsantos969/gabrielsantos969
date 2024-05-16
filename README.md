@@ -1,13 +1,6 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 ### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&random=false&width=435&lines=Ol%C3%A1+%F0%9F%91%8B%2C+meu+nome+%C3%A9+Gabriel;Seja+bem-vindo+ao+meu+perfil+%E2%9C%A8;Espero+que+goste+%F0%9F%98%81)](https://git.io/typing-svg)
-
-### Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 💼 Atualmente trabalho como Analista de Sistemas;
-- 🎓 Fazendo Bacharelado em Ciências da Computação (6/8) na UNIFACS;
-- 🌱 Aprendendo mais sobre Java e Spring Boot;
   
 <table>
   <tr>
@@ -35,7 +28,13 @@
     </td>
   </tr>
 </table>
-  
+
+## Sobre mim
+
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💼 Atualmente trabalho como Analista de Sistemas;
+- 🎓 Fazendo Bacharelado em Ciências da Computação (6/8) na UNIFACS;
+- 🌱 Aprendendo mais sobre Java e Spring Boot;
 
 ## 🧠 Minhas Skills
 
