@@ -79,6 +79,6 @@
 
 ## Onde me encontrar
 
+[![Perfil DIO](https://img.shields.io/badge/-Meu%20Perfil%20na%20DIO-30A3DC?style=flap)](https://www.dio.me/users/gabrielsantos98898)
 [![Linkedin](https://img.shields.io/badge/-Gabriel_Santos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabriel-santos-b53632196/)](https://www.linkedin.com/in/gabriel-santos-b53632196/)
 [![GitHub](https://img.shields.io/github/followers/gabrielsantos969?label=follow&style=social)](https://github.com/gabrielsantos969)
-
