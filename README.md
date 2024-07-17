@@ -7,8 +7,8 @@
   
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
   - 💼 Atualmente trabalho como Analista de Sistemas;
-  - 🎓 Fazendo Bacharelado em Ciências da Computação (6/8) na UNIFACS;
-  - 🌱 Aprendendo mais sobre Java e Spring Boot;
+  - 🎓 Fazendo Bacharelado em Ciências da Computação (7/8) na UNIFACS;
+  - 🌱 Me especializando em NodeJS e REST API;
 </div>
 
 <table>
@@ -16,14 +16,14 @@
     <td>
       <img
         align="left" 
-        src="https://github-readme-stats.vercel.app/api?username=gabrielsantos969&theme=dark&hide_border=false&include_all_commits=false"
+        src="https://github-readme-stats.vercel.app/api?username=gabrielsantos969&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github Stats"
       />
     </td>
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos969&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos969&theme=dark&hide_border=false&count_private=false&layout=compact"
         alt="Github Stats"
       />
     </td>
@@ -44,22 +44,17 @@
 
 **Aplicações e dados**
 
-![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=007396)
-![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat&logo=express&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-323330?style=flat&logo=javascript)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=flat&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=HTML5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=CSS3&logoColor=white)
 ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat&logo=mysql&logoColor=white)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 
 **Utilidades**
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 **DevOps**
@@ -71,9 +66,7 @@
 **Ferramentas de desenvolvimento**
 
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=flat&logo=intellij-idea&logoColor=00000)
 
 
 
