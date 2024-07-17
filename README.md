@@ -14,18 +14,10 @@
 <table>
   <tr>
     <td>
-      <img
-        align="left" 
-        src="https://github-readme-stats.vercel.app/api?username=gabrielsantos969&theme=dark&hide_border=false&include_all_commits=true&count_private=true"
-        alt="Github Stats"
-      />
+      <a href="https://github.com/gabrielsantos969/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=gabrielsantos969&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&count_private=true" alt="Anurag's github stats" /></a>
     </td>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos969&theme=dark&hide_border=false&count_private=false&layout=compact"
-        alt="Github Stats"
-      />
+      <a href="https://github.com/gabrielsantos969/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsantos969&layout=compact&theme=dark&hide_border=false&count_private=true" /></a>
     </td>
     <td>
       <br />
@@ -37,8 +29,6 @@
     </td>
   </tr>
 </table>
-
-
 
 ## 🧠 Minhas Skills
 
