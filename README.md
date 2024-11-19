@@ -19,7 +19,7 @@
   - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
   - 💼 Atualmente trabalho como Analista de Sistemas;
   - 🎓 Fazendo Bacharelado em Ciências da Computação (7/8) na UNIFACS;
-  - 🌱 Me especializando em NodeJS e REST API;
+  - 🌱 Me especializando em NodeJS, .NET e REST API;
 </div>
 
 <table>
